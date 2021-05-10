@@ -5,4 +5,10 @@
 layout: default
 ---
 
-wow epic style
+# About
+Software Engineer at Pipeworks Studios, working primarily on tools for game development. Graduated from the University of Oregon with a B.S. in Computer Science.
+
+## Professional Projects
+- Terraria Nintendo Switch (Unity, C#, Perf)
+- Rival Peak (Tools, Unity, C#)
+- Various unannounced titles
