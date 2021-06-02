@@ -6,7 +6,7 @@ layout: default
 ---
 
 # About
-Software Engineer at Pipeworks Studios, working primarily on tools for game development. Graduated from the University of Oregon with a B.S. in Computer Science.
+Associate Software Engineer at Riot Games. Graduated from the University of Oregon with a B.S. in Computer Science.
 
 ## Professional Projects
 - Terraria Nintendo Switch (Unity, C#, Perf)
